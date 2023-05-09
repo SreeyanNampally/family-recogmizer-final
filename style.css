@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(222, 137, 27);
+}
+.names{
+    width:500px;
+}
+#camera1{
+    border: 10px inset rgb(252, 63, 63);
+    width: 500px;
+    height:350px;
+}
